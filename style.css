@@ -585,6 +585,11 @@ span {
 
 .contact form .textarea-field textarea {
   resize: none;
+  background: var(--second-bg-color);
+  border: .2rem solid var(--main-bg-color);
+  padding-left: 3px;
+  padding-top: 3px;
+  color: var(--text-bg-color);
 }
 
 .contact form .btn-box.btns .btn {
